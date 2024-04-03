@@ -1,0 +1,17 @@
+{
+    "name": "isnot-727",
+    "version": "1.0.0",
+    "description": "Checks if a number is not 727 ",
+    "author": "IGSteven <me@igsteven.com>",
+    "repository": "https://github.com/IGSteven/isnot-727",
+    "license": "GPL-3.0",
+    "type": "module",
+    "private": true,
+    "main": "index.js",
+    "scripts": {
+        "start": "node .",
+        "lint": "eslint src/**/*.{ js,cjs,mjs,ts }"
+    },
+    "dependencies": {},
+    "devDependencies": {}
+}
