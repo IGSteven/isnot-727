@@ -13,7 +13,7 @@
         "lint": "eslint src/**/*.{ js,cjs,mjs,ts }"
     },
     "dependencies": {
-        "is-727": "git+https://github.com/SquashyTomato/is-727.git"
+        "is-727": "^1.0.0"
     },
     "devDependencies": {}
 }
